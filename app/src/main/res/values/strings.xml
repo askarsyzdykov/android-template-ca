@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">android-template-ca</string>
+
+    <string name="login_email">Электронная почта</string>
+    <string name="login_password">Пароль</string>
+    <string name="login_restore_password">Восстановить пароль</string>
+    <string name="login_enter">Войти</string>
+    <string name="login_entry">Вход</string>
+    <string name="login_error_wrong_email">Введите правильный email</string>
+    <string name="login_error_wrong_password">Введите пароль</string>
+    <string name="login_error_wrong_credentials">Введённые логин/пароль неверны</string>
+
+    <string name="error_no_internet_connection">Нет интернет подключюения</string>
+    <string name="error_http_401">Неверный логин или пароль</string>
+    <string name="error_default_exception">Ошибка получения данных</string>
 </resources>
