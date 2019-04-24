@@ -10,17 +10,17 @@ ext.versions = [
 
         moxy                         : '1.5.3',
         dagger                       : '2.6',
-        rxJava                       : '2.1.5',
-        rxAndroid                    : '2.0.1',
-        okHttp                       : '3.9.0',
-        retrofit                     : '2.3.0',
+        rxJava                       : '2.2.8',
+        rxAndroid                    : '2.1.1',
+        okHttp                       : '3.14.1',
+        retrofit                     : '2.5.0',
 
         rxpermissions                : '0.9.4',
         easyPrefs                    : '1.9.0',
 
-        fresco                       : '1.5.0',
+        fresco                       : '1.13.0',
 
-        stetho                       : '1.5.0',
+        stetho                       : '1.5.1',
 
         roomRuntime                  : '1.0.0',
         roomCompiler                 : '1.0.0',
